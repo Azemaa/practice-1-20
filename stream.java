@@ -17,7 +17,7 @@ class Student {
     }
 }
 
-public class Main {
+public class stream {
     public static void main(String[] args) {
 
         // list of strings
